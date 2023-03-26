@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <h2>City of Life - Giving Life and Nations</h2>
+        <h2>City of Life - Giving Life and Hope to the Nations</h2>
         <p>
           Psalms 119:105 : Your Word is a lamp to my feet, and a light to my path
         </p>
