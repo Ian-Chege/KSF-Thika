@@ -8,7 +8,7 @@ date: '2023-03-26'
 
 Sermon by **Senior Pastor Peter Mburu**
 
-
+[Watch the Live Rebroadcast](https://www.youtube.com/watch?v=jqerwNnzFg0&t=7149s)
 
 ♢ Maturity is whereby you can bear Godly fruits and fruits that can last.
 
