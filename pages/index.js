@@ -13,9 +13,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <h2>City of Life - Giving Life and Hope to the Nations</h2>
-        <p>
-          Psalms 119:105 : Your Word is a lamp to my feet, and a light to my path
-        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Sermons</h2>
